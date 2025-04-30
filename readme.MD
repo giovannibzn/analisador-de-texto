@@ -68,5 +68,5 @@ Sinta-se livre para abrir **Issues** ou enviar um **Pull Request** com sugestõe
 
 ## 🧑‍💻 Autor
 
-- **Seu Nome** – [@giovannibzn](https://github.com/giovannibzn)
+- **Giovanni Biazon** – [@giovannibzn](https://github.com/giovannibzn)
 
